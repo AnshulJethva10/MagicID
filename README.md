@@ -18,7 +18,7 @@ After that I have created a dictionary of extension and their hex code, some fil
 Then I take the argument at position 1 which is the target file and then convert it to the hexadecimal string. Then the only part remaining is to check the starting hex code of the file with each and every extension in the dictionary, If found it will tell the actual structure of the file. 
 
 # Demo
-![[Pasted image 20250209173412.png]]
+![Screen Shot](ss.png)
 
 # Extra
 If you want to use the script as command in Unix system then you have to do some extra work
